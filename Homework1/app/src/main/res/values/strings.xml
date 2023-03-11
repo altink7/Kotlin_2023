@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="altin_kelmendi">Altin Kelmendi</string>
+    <string name="calculate">Calculate</string>
+    <string name="navigate">NAVIGATE</string>
+    <string name="zero">0</string>
+    <string name="firstInput">Eingabetext 1</string>
+    <string name="SecondInput">Eingabetext 2</string>
+</resources>
