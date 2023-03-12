@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magic Card List</string>
+    <string name="load">Load Cards</string>
+    <string name="loading">Loading…</string>
+    <string name="data">nothing to show… </string>
+    <string name="altin_kelmendi">Altin Kelmendi</string>
+    <string name="page">Page</string>
+</resources>
